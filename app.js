@@ -1,0 +1,1 @@
+//new featured added in js file
